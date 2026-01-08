@@ -24,6 +24,12 @@ header p { font-size: 1.2em; }
   text-align: center;
 }
 
+@media (max-width: 600px) {
+  .logo {
+    height: 50px;
+  }
+}
+
 .hero { text-align: center; padding: 60px 0; background: #fdf4f4; }
 .hero h2 { font-size: 2.5em; margin-bottom: 20px; }
 .btn { background: #ff69b4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 30px; font-weight: bold; }
@@ -49,3 +55,4 @@ footer { background: #ff69b4; color: white; text-align: center; padding: 20px; }
     .hero h2 { font-size: 2em; }
 
 }
+
