@@ -16,7 +16,7 @@ header p { font-size: 1.2em; }
 .logo {
   position: absolute;
   left: 0;
-  height: 150px;
+  height: 200px;
   width: auto;
 }
 
@@ -55,5 +55,6 @@ footer { background: #ff69b4; color: white; text-align: center; padding: 20px; }
     .hero h2 { font-size: 2em; }
 
 }
+
 
 
